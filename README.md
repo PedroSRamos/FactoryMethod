@@ -12,6 +12,8 @@ Define uma interface (uma interface java ou uma classe abstrata) e permite que a
 
 ## Pontos Positivos :
 
-Por ser um padrão de software, a implementação do factory Method implica na também implementação, mesmo que de forma implícita, de uma linguagem universal no código, ou seja, outros developers que conhecem o padrão já entenderão o código e sem precisar ir aos detalhes;
-Remove o acoplamento forte que existia nas classes que tinham, além da lógica de negócio própria delas, os códigos de criação de instâncias;
-Encapsula o código que varia, código de instanciação de classe. Cada código de criação fica em um único local, em sua própria classe, criando assim um ponto único de atualização. 
+-> Por ser um padrão de software, a implementação do factory Method implica na também implementação, mesmo que de forma implícita, de uma linguagem universal no código, ou seja, outros developers que conhecem o padrão já entenderão o código e sem precisar ir aos detalhes;
+
+->Remove o acoplamento forte que existia nas classes que tinham, além da lógica de negócio própria delas, os códigos de criação de instâncias;
+
+->Encapsula o código que varia, código de instanciação de classe. Cada código de criação fica em um único local, em sua própria classe, criando assim um ponto único de atualização. 
