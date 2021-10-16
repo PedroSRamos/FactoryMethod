@@ -1,2 +1,3 @@
-# Trabalho_Eng_Software
-Trabalho de Engenharia de Software
+# Trabalho de Enganharia de Software 
+
+Trabalho usando o Factory Method 
